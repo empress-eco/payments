@@ -1,10 +1,15 @@
+
+<div align="center">
+
 <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Payments App is a comprehensive payment solution tailored to streamline and secure business transactions. It efficiently manages multiple payment gateways and offers a customizable web form for facilitating payments.
 
-- [Visit Our Website](https://empress.eco/)
-- [Report Bug](https://github.com/empress-eco/payments/issues)
-- [Request Feature](https://github.com/empress-eco/payments/issues)
+[Visit Our Website](https://empress.eco/) | [Report Bug](https://github.com/empress-eco/payments/issues) | [Request Feature](https://github.com/empress-eco/payments/issues)
+
+</div>
+
+
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
